@@ -1,5 +1,5 @@
 # EuroParks Plot resource pack
-Use this template to quickly begin making your very own plot resource pack!
+Use this template by forking the repository or downloading the source to quickly begin making your very own plot resource pack!
 
 # Info
 * Website: https://europarks.fun/
