@@ -1,0 +1,39 @@
+{
+	"providers": [
+		{
+			"file": "font/owner.png",
+			"ascent": 8,
+			"chars": [""],
+			"height": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "font/vip.png",
+			"ascent": 8,
+			"chars": [""],
+			"height": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "font/staff.png",
+			"ascent": 8,
+			"chars": [""],
+			"height": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "font/media.png",
+			"ascent": 8,
+			"chars": [""],
+			"height": 8,
+			"type": "bitmap"
+		},
+		{
+			"file": "font/guest.png",
+			"ascent": 8,
+			"chars": [""],
+			"height": 8,
+			"type": "bitmap"
+		}
+	]
+}
